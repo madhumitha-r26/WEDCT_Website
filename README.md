@@ -7,7 +7,7 @@ The Functional modules that are used in the website are login process and regist
 
 
 
-Link: [[http://wedctmadurai.infinityfreeapp.com/](http://wedctmadurai.infinityfreeapp.com/)]
+Link: [http://wedctmadurai.infinityfreeapp.com/](http://wedctmadurai.infinityfreeapp.com/)
 
 Demo Video:
 [https://drive.google.com/file/d/1it3qk8XrhP0UJuen0viyusSgOC514FRL/view?usp=drive_link](https://drive.google.com/file/d/19Bj7pOEUiKeq3um8vcOIlZp0r2GKybxS/view?usp=drive_link)
